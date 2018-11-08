@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623103/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623103/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623103/blog/</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623103/blog/2018-Fall-Project-5.html</id><summary type="html">&lt;p&gt;上課進度:
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623103/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623103/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623103/blog/</id><updated>2018-11-02T11:00:00+08:00</updated><entry><title>Week8</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-8.html" rel="alternate"></link><published>2018-11-02T11:00:00+08:00</published><updated>2018-11-02T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-11-02:/site-40623103/blog/2018-Fall-Project-8.html</id><summary type="html">&lt;p&gt;上課進度:
+機電資整合設計專案流程所需的相關套件運用與技術。&lt;/p&gt;
+&lt;p&gt;截至目前在 Onshape 只是進行機械元件零組件的設計繪製, 接下來的電子感測與電機控制, 以及資訊套件與機電模型間的控制訊號傳送, 將成為另一重點。&lt;/p&gt;
+&lt;p&gt;當設計者在 Onshape 完成系統的零組件設計繪製後, 通常採用 STL 格式的組立檔輸入 V-rep, 之後將各零件拆解後, 根據各傳動軸的配置進行運動系統模型的建構。&lt;/p&gt;
+&lt;p&gt;接下來再根據運動約束, 以 Lua 或 Python 驅動各軸, 完成初步的運動模擬後, 再設法導入諸如 PyQuino 的控制訊號傳輸套件, 以連結虛擬或實體機電系統模型。&lt;/p&gt;
+&lt;p&gt;其中牽涉 Arduino 控制板程式模擬部分, 將採用 TinkerCAD 完成, 制動器則將採用小型步進或伺服馬達完成。&lt;/p&gt;</summary><content type="html">&lt;p&gt;上課進度:
+機電資整合設計專案流程所需的相關套件運用與技術。&lt;/p&gt;
+&lt;p&gt;截至目前在 Onshape 只是進行機械元件零組件的設計繪製, 接下來的電子感測與電機控制, 以及資訊套件與機電模型間的控制訊號傳送, 將成為另一重點。&lt;/p&gt;
+&lt;p&gt;當設計者在 Onshape 完成系統的零組件設計繪製後, 通常採用 STL 格式的組立檔輸入 V-rep, 之後將各零件拆解後, 根據各傳動軸的配置進行運動系統模型的建構。&lt;/p&gt;
+&lt;p&gt;接下來再根據運動約束, 以 Lua 或 Python 驅動各軸, 完成初步的運動模擬後, 再設法導入諸如 PyQuino 的控制訊號傳輸套件, 以連結虛擬或實體機電系統模型。&lt;/p&gt;
+&lt;p&gt;其中牽涉 Arduino 控制板程式模擬部分, 將採用 TinkerCAD 完成, 制動器則將採用小型步進或伺服馬達完成。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week7</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-7.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623103/blog/2018-Fall-Project-7.html</id><summary type="html">&lt;p&gt;上課進度:
+1如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料.
+2說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程。
+3說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程。
+4 說明如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統&lt;/p&gt;
+&lt;p&gt;各用戶在計算機程式課程中所協同編寫的程式碼, 除了在近端與雲端分散式版次管理系統中儲存外, 也可以在自建的 Ubuntu 虛擬或實體伺服器中, 以 Fossil SCM 協助分散式版次管理.&lt;/p&gt;
+&lt;p&gt;在伺服器端建立 fossil 倉儲:&lt;/p&gt;
+&lt;p&gt;fossil init cadlab.fossil&lt;/p&gt;
+&lt;p&gt;接下來則利用 Stunnel 在 https 架構下伺服 cadlab.fossil&lt;/p&gt;
+&lt;p&gt;而客戶端則利用&lt;/p&gt;
+&lt;p&gt;fossil clone https://cadlab@your_server_ip/cadlab cadlab.fossil&lt;/p&gt;
+&lt;p&gt;將遠端的倉儲克隆到近端成為 cadlab.fossil&lt;/p&gt;
+&lt;p&gt;接下來在近端則以 fossil open 將克隆下來的 repository/cadlab.fossil 最新版本開啟在 
+repository/wd/cadlab/ 工作目錄中&lt;/p&gt;
+&lt;p&gt;使用者進入 repository/wd/cadlab/ 目錄後, 以&lt;/p&gt;
+&lt;p&gt;fossil open ./../../cadlab.fossil&lt;/p&gt;
+&lt;p&gt;解開內容, 之後的改版則以 fossil add . 與 fossil commit -m "提交訊息"
+讓 fossil 自動將改版內容推送到遠端。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上課進度:
+1如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料.
+2說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程。
+3說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程。
+4 說明如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統&lt;/p&gt;
+&lt;p&gt;各用戶在計算機程式課程中所協同編寫的程式碼, 除了在近端與雲端分散式版次管理系統中儲存外, 也可以在自建的 Ubuntu 虛擬或實體伺服器中, 以 Fossil SCM 協助分散式版次管理.&lt;/p&gt;
+&lt;p&gt;在伺服器端建立 fossil 倉儲:&lt;/p&gt;
+&lt;p&gt;fossil init cadlab.fossil&lt;/p&gt;
+&lt;p&gt;接下來則利用 Stunnel 在 https 架構下伺服 cadlab.fossil&lt;/p&gt;
+&lt;p&gt;而客戶端則利用&lt;/p&gt;
+&lt;p&gt;fossil clone https://cadlab@your_server_ip/cadlab cadlab.fossil&lt;/p&gt;
+&lt;p&gt;將遠端的倉儲克隆到近端成為 cadlab.fossil&lt;/p&gt;
+&lt;p&gt;接下來在近端則以 fossil open 將克隆下來的 repository/cadlab.fossil 最新版本開啟在 
+repository/wd/cadlab/ 工作目錄中&lt;/p&gt;
+&lt;p&gt;使用者進入 repository/wd/cadlab/ 目錄後, 以&lt;/p&gt;
+&lt;p&gt;fossil open ./../../cadlab.fossil&lt;/p&gt;
+&lt;p&gt;解開內容, 之後的改版則以 fossil add . 與 fossil commit -m "提交訊息"
+讓 fossil 自動將改版內容推送到遠端。&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>Week6</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-6.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623103/blog/2018-Fall-Project-6.html</id><summary type="html">&lt;p&gt;上課進度:
+1以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程。
+2說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py, 並且利用 Leo Editor 的 @auto 節點指令與 @clean 節點指令, 重新配置 cmsimfly.leo 開發專案檔。
+3說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上課進度:
+1以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程。
+2說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py, 並且利用 Leo Editor 的 @auto 節點指令與 @clean 節點指令, 重新配置 cmsimfly.leo 開發專案檔。
+3說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排。&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623103/blog/2018-Fall-Project-5.html</id><summary type="html">&lt;p&gt;上課進度:
 1從 Onshapeweek1 課程到 Onshapeweek2
 說明各週設計要點, 針對各英文單字查詢並了解其原意, 最終達到 read 英文內容, 就可了解含意, 而非進行中文翻譯。
 2onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。

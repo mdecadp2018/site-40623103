@@ -171,7 +171,7 @@ init_mathjax();
           </span>
         </nav>
         <h1 class="post-title">Category Misc</h1>
-        <span class="blog-description">Posts: 5</span>
+        <span class="blog-description">Posts: 8</span>
             <div class="post-cover cover" style="background-image: url('https://mdecadp2018.github.io/site-40623103/blog/theme/images/post-bg.jpg')">
       </div>
     </header>
@@ -197,6 +197,91 @@ init_mathjax();
 </nav>
     </div>
 
+        <article class="post">
+        <div class="inner">
+            <header class="post-header">         
+                <h2 class="post-title"><a href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-8.html" rel="bookmark" title="Permalink to Week8">Week8</a>
+                </h2>
+                <span class="post-meta">
+                        <a href="https://mdecadp2018.github.io/site-40623103/blog/author/40623103.html">40623103</a>
+                     | <time datetime="週五 02 十一月 2018">週五 02 十一月 2018</time>
+                </span>
+                <div class="clear"></div>
+            </header>
+                <section class="post-excerpt">
+                    <p>
+                        上課進度: 機電資整合設計專案流程所需的相關套件運用與技術。 截至目前在 Onshape 只是進行機械元件零組件的設計繪製, 接下來的電子感測與電機控制, 以及資訊套件與機電模型間的控制訊號傳送, 將成為另一重點。 當設計者在 Onshape 完成系統的零組件設計繪製後, 通常採用 STL 格式的組立檔輸入 V-rep, 之後將各零件拆解後, 根據各傳動軸的配置進行運動系統模型的建構。 接下來再根據運動約束, 以 Lua 或 Python 驅動各軸, 完成初步的運動模擬後,...
+                    </p>
+                </section>
+<p>
+  <a data-disqus-identifier="/2018-Fall-Project-8.html" href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-8.html#disqus_thread">comments</a>
+</p>
+            </div>
+        </article>
+        <article class="post">
+        <div class="inner">
+            <header class="post-header">         
+                <h2 class="post-title"><a href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-7.html" rel="bookmark" title="Permalink to Week7">Week7</a>
+                </h2>
+                <span class="post-meta">
+                        <a href="https://mdecadp2018.github.io/site-40623103/blog/author/40623103.html">40623103</a>
+                     | <time datetime="週五 26 十月 2018">週五 26 十月 2018</time>
+                </span>
+                <div class="clear"></div>
+            </header>
+                <section class="post-excerpt">
+                    <p>
+                        <p>上課進度:
+1如何利用 Github, 近端與區域網路中的 Fossil Scm, 保全輔助設計的資料.
+2說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程。
+3說明如何在使用 CMSimfly 過程, 碰到無法正確解讀 config/content.htm 時, 可採取的更新程式碼或回報問題的流程。
+4 說明如何利用 Fossil SCM 建立區域網路中的分散式版次管理系統</p>
+<p>各用戶在計算機程式課程中所協同編寫的程式碼, 除了在近端與雲端分散式版次管理系統中儲存外, 也可以在自建的 Ubuntu 虛擬或實體伺服器中, 以 Fossil SCM 協助分散式版次管理.</p>
+<p>在伺服器端建立 fossil 倉儲:</p>
+<p>fossil init cadlab.fossil</p>
+<p>接下來則利用 Stunnel 在 https 架構下伺服 cadlab.fossil</p>
+<p>而客戶端則利用</p>
+<p>fossil clone https://cadlab@your_server_ip/cadlab cadlab.fossil</p>
+<p>將遠端的倉儲克隆到近端成為 cadlab.fossil</p>
+<p>接下來在近端則以 fossil open 將克隆下來的 repository/cadlab.fossil 最新版本開啟在 
+repository/wd/cadlab/ 工作目錄中</p>
+<p>使用者進入 repository/wd/cadlab/ 目錄後, 以</p>
+<p>fossil open ./../../cadlab.fossil</p>
+<p>解開內容, 之後的改版則以 fossil add . 與 fossil commit -m "提交訊息"
+讓 fossil 自動將改版內容推送到遠端。</p>
+
+                    </p>
+                </section>
+<p>
+  <a data-disqus-identifier="/2018-Fall-Project-7.html" href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-7.html#disqus_thread">comments</a>
+</p>
+            </div>
+        </article>
+        <article class="post">
+        <div class="inner">
+            <header class="post-header">         
+                <h2 class="post-title"><a href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-6.html" rel="bookmark" title="Permalink to Week6">Week6</a>
+                </h2>
+                <span class="post-meta">
+                        <a href="https://mdecadp2018.github.io/site-40623103/blog/author/40623103.html">40623103</a>
+                     | <time datetime="週五 19 十月 2018">週五 19 十月 2018</time>
+                </span>
+                <div class="clear"></div>
+            </header>
+                <section class="post-excerpt">
+                    <p>
+                        <p>上課進度:
+1以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程。
+2說明如何升級最新的 CMSimfly 倉儲中的 flaskapp.py, 並且利用 Leo Editor 的 @auto 節點指令與 @clean 節點指令, 重新配置 cmsimfly.leo 開發專案檔。
+3說明電腦輔助設計實習課程中, 有關人事時地物等關鍵內容的架構安排。</p>
+
+                    </p>
+                </section>
+<p>
+  <a data-disqus-identifier="/2018-Fall-Project-6.html" href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-6.html#disqus_thread">comments</a>
+</p>
+            </div>
+        </article>
         <article class="post">
         <div class="inner">
             <header class="post-header">         
