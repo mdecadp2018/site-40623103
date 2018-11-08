@@ -27,7 +27,7 @@
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -129,10 +129,10 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [機設二甲40623103宋宜蓁](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 電腦輔助設計實習](./../blog/index.html)
 
 
 </t>
@@ -171,10 +171,13 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
+<t tx="leo.20180827201621.15"># 第一週上課進度
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+107/09/14
+下載p37程式至隨身碟
+git clone https://github.com/mdecourse/2018fall 設立網誌
+註冊onshape
+進入自己的github創建 s+學號.github.io.public
 
 $$I = \int \rho R^{2} dV$$
 </t>
