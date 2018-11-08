@@ -179,7 +179,6 @@ git clone https://github.com/mdecourse/2018fall 設立網誌
 註冊onshape
 進入自己的github創建 s+學號.github.io.public
 
-$$I = \int \rho R^{2} dV$$
 </t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
