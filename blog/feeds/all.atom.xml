@@ -1,5 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623103/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623103/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623103/blog/</id><updated>2018-10-04T11:00:00+08:00</updated><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623103/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623103/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623103/blog/</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623103/blog/2018-Fall-Project-5.html</id><summary type="html">&lt;p&gt;上課進度:
+從 Onshapeweek1 課程到 Onshapeweek2
+說明各週設計要點, 針對各英文單字查詢並了解其原意, 最終達到 read 英文內容, 就可了解含意, 而非進行中文翻譯。
+onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。
+Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理。&lt;/p&gt;
+&lt;p&gt;week5 &lt;a href="https://www.youtube.com/watch?v=XZZXFytiRtM&amp;t=5s&gt;
+week5 &lt;a href="https://www.youtube.com/watch?v=0SKgCf2zJV8&amp;t=4s&gt;
+week5 &lt;a href="https://www.youtube.com/watch?v=XZZXFytiRtM&amp;t=8s&gt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;上課進度:
+從 Onshapeweek1 課程到 Onshapeweek2
+說明各週設計要點, 針對各英文單字查詢並了解其原意, 最終達到 read 英文內容, 就可了解含意, 而非進行中文翻譯。
+onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。
+Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理。&lt;/p&gt;
+&lt;p&gt;week5 &lt;a href="https://www.youtube.com/watch?v=XZZXFytiRtM&amp;t=5s&gt;
+week5 &lt;a href="https://www.youtube.com/watch?v=0SKgCf2zJV8&amp;t=4s&gt;
+week5 &lt;a href="https://www.youtube.com/watch?v=XZZXFytiRtM&amp;t=8s&gt;&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+&lt;p&gt;選草圖平面
+繪製草圖
+完成草圖
+擠出
+旋轉
+陣列
+鏡射
+圓角
+倒角
+孔
+各種拘束&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也較容易了解它的功能，並快速進入狀況。
+</summary><content type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+&lt;p&gt;選草圖平面
+繪製草圖
+完成草圖
+擠出
+旋轉
+陣列
+鏡射
+圓角
+倒角
+孔
+各種拘束&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也較容易了解它的功能，並快速進入狀況。
+&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+&lt;p&gt;選草圖平面
+繪製草圖
+完成草圖
+擠出
+旋轉
+陣列
+鏡射
+圓角
+倒角
+孔
+各種拘束&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也較容易了解它的功能，並快速進入狀況。
+</summary><content type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+&lt;p&gt;選草圖平面
+繪製草圖
+完成草圖
+擠出
+旋轉
+陣列
+鏡射
+圓角
+倒角
+孔
+各種拘束&lt;/p&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也較容易了解它的功能，並快速進入狀況。
+&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+&lt;p&gt;選草圖平面
+繪製草圖
+完成草圖
+擠出
+旋轉
+陣列
+鏡射
+圓角
+倒角
+孔
+各種拘束
+</summary><content type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
+&lt;p&gt;選草圖平面
+繪製草圖
+完成草圖
+擠出
+旋轉
+陣列
+鏡射
+圓角
+倒角
+孔
+各種拘束
+&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
 &lt;p&gt;選草圖平面
 繪製草圖
 完成草圖
