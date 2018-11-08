@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623103/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623103/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623103/blog/</id><updated>2018-10-12T11:00:00+08:00</updated><entry><title>Week5</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-5.html" rel="alternate"></link><published>2018-10-12T11:00:00+08:00</published><updated>2018-10-12T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40623103/blog/2018-Fall-Project-5.html</id><summary type="html">&lt;p&gt;上課進度:
-從 Onshapeweek1 課程到 Onshapeweek2
+1從 Onshapeweek1 課程到 Onshapeweek2
 說明各週設計要點, 針對各英文單字查詢並了解其原意, 最終達到 read 英文內容, 就可了解含意, 而非進行中文翻譯。
-onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。
-Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理。&lt;/p&gt;
+2onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。
+3Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;上課進度:
-從 Onshapeweek1 課程到 Onshapeweek2
+1從 Onshapeweek1 課程到 Onshapeweek2
 說明各週設計要點, 針對各英文單字查詢並了解其原意, 最終達到 read 英文內容, 就可了解含意, 而非進行中文翻譯。
-onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。
-Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理。&lt;/p&gt;
+2onshape 設計繪圖說明, 有關 Part Studio 中可放入多零件檔案, 以及如何利用 variable 定義簡化繪圖流程。
+3Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug 設定處理。&lt;/p&gt;
 </content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-05T11:00:00+08:00</published><updated>2018-10-05T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
 &lt;p&gt;選草圖平面
 繪製草圖
@@ -22,7 +22,7 @@ Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug �
 孔
 各種拘束&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也較容易了解它的功能，並快速進入狀況。&lt;/p&gt;
+&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也比較容易了解它的功能，並快速進入狀況。&lt;/p&gt;
 </summary><content type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
 &lt;p&gt;選草圖平面
 繪製草圖
@@ -36,32 +36,8 @@ Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug �
 孔
 各種拘束&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也較容易了解它的功能，並快速進入狀況。&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week4</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-4.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623103/blog/2018-Fall-Project-4.html</id><summary type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
-&lt;p&gt;選草圖平面
-繪製草圖
-完成草圖
-擠出
-旋轉
-陣列
-鏡射
-圓角
-倒角
-孔
-各種拘束
-</summary><content type="html">&lt;h2&gt;onshape功能講解&lt;/h2&gt;
-&lt;p&gt;選草圖平面
-繪製草圖
-完成草圖
-擠出
-旋轉
-陣列
-鏡射
-圓角
-倒角
-孔
-各種拘束
-&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623103/blog/2018-Fall-Project-3.html</id><summary type="html">&lt;p&gt;上課進度:
+&lt;p&gt;onshape跟autocad  inventor某種方面較為相似，所以我也比較容易了解它的功能，並快速進入狀況。&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>Week3</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-3.html" rel="alternate"></link><published>2018-09-28T11:00:00+08:00</published><updated>2018-09-28T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40623103/blog/2018-Fall-Project-3.html</id><summary type="html">&lt;p&gt;上課進度:
 1.創建自己的onshape帳號
 2.先去黑屏找自己的ip位址python wsgi.py
   登入密碼
@@ -76,7 +52,7 @@ Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug �
 3.遠端mdecadp2018.github.io/site-s40623103/content/index.html
    近端localhost 8443&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;這週的東西較為繁瑣，比較多事情需要完成，搞得我手忙腳亂，還好有一些同學的協助才可以順利完成這次的任務‧   &lt;/p&gt;
+&lt;p&gt;這週的東西較為繁瑣，比較多事情需要完成，搞得我手忙腳亂，還好有一些同學的協助才可以順利完成這次的任務。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;上課進度:
 1.創建自己的onshape帳號
 2.先去黑屏找自己的ip位址python wsgi.py
@@ -92,18 +68,18 @@ Pyslvs 電腦輔助機構模擬與合成套件介紹, Pelican blog 重複 slug �
 3.遠端mdecadp2018.github.io/site-s40623103/content/index.html
    近端localhost 8443&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;這週的東西較為繁瑣，比較多事情需要完成，搞得我手忙腳亂，還好有一些同學的協助才可以順利完成這次的任務‧   &lt;/p&gt;
+&lt;p&gt;這週的東西較為繁瑣，比較多事情需要完成，搞得我手忙腳亂，還好有一些同學的協助才可以順利完成這次的任務。&lt;/p&gt;
 </content><category term="2018Fall"></category></entry><entry><title>Week2</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-2.html" rel="alternate"></link><published>2018-09-21T11:00:00+08:00</published><updated>2018-09-21T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40623103/blog/2018-Fall-Project-2.html</id><summary type="html">&lt;p&gt;上課進度:
-1.學習使用近端推遠端
-2.在網站中建立簡報與部落格&lt;/p&gt;
+1.學習使用近端推遠端。
+2.在網站中建立簡報與部落格。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;這週所學的東西,，是將一年級的知識進階化並完成許多較複雜之過程，每當成功製作後，都有一種滿足感。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;上課進度:
-1.學習使用近端推遠端
-2.在網站中建立簡報與部落格&lt;/p&gt;
+1.學習使用近端推遠端。
+2.在網站中建立簡報與部落格。&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;這週所學的東西,，是將一年級的知識進階化並完成許多較複雜之過程，每當成功製作後，都有一種滿足感。&lt;/p&gt;
-</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623103/blog/2018-Fall-Project-1.html</id><summary type="html">&lt;p&gt;領 Onshape 作業大禮包，並在期中前完成作業並錄影上傳 &lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>Week1</title><link href="https://mdecadp2018.github.io/site-40623103/blog/2018-Fall-Project-1.html" rel="alternate"></link><published>2018-09-14T11:00:00+08:00</published><updated>2018-09-14T11:00:00+08:00</updated><author><name>40623103</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40623103/blog/2018-Fall-Project-1.html</id><summary type="html">&lt;p&gt;領 Onshape 作業大禮包，並在期中前完成作業並錄影上傳 。&lt;/p&gt;
 &lt;h2&gt;Onshape&lt;/h2&gt;
 &lt;p&gt;各學員學會如何管理各自位於 https://github.com/mdecadp2018/ 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中.&lt;/p&gt;
 &lt;p&gt;http://mde.tw/cadp2018/content/OnshapeWeek%201.html
@@ -116,7 +92,7 @@ http://mde.tw/cadp2018/content/OnshapeWeeks%209-12.html&lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;電腦輔助設計相較我過去所學之觀念有一點不相同，過去我一直認為所需之程式不外乎是autocad inventor
 solidwork之類的程式，沒想到可以利用這門課學習許多沒想到的課程。&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;領 Onshape 作業大禮包，並在期中前完成作業並錄影上傳 &lt;/p&gt;
+</summary><content type="html">&lt;p&gt;領 Onshape 作業大禮包，並在期中前完成作業並錄影上傳 。&lt;/p&gt;
 &lt;h2&gt;Onshape&lt;/h2&gt;
 &lt;p&gt;各學員學會如何管理各自位於 https://github.com/mdecadp2018/ 中的期中作業倉儲, 然後在 W9 前, 自行掌握進度, 每週拍攝操作實習影片, 將教材內容與使用心得放入個人的網站、簡報與網誌中.&lt;/p&gt;
 &lt;p&gt;http://mde.tw/cadp2018/content/OnshapeWeek%201.html
