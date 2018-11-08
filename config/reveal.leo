@@ -171,13 +171,13 @@ Created by [機設二甲40623103宋宜蓁](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 第一週上課進度
+<t tx="leo.20180827201621.15"># 電腦輔助設計設計上課須知
 
-107/09/14
 下載p37程式至隨身碟
 git clone https://github.com/mdecourse/2018fall 設立網誌
 註冊onshape
 進入自己的github創建 s+學號.github.io.public
+攜帶筆記、隨身碟、耳機
 
 </t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
@@ -191,33 +191,19 @@ git clone https://github.com/mdecourse/2018fall 設立網誌
 
 						
 </t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="leo.20180827201621.17">## 上課專業用語
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+
+設定gh-pages分支
+reveal.leo簡報製作
+pelican.leo 部落格製作
+local近端 github遠端
+git pull
+git add .
+git commit -m "名稱 "
+git push
+
+
 </t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -228,12 +214,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
+<t tx="leo.20180827201621.19">## onshape 繪圖軟體
 
-### 導入影片 template
+### 特殊常用指令
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+1擠出 2旋轉 3鏡射 4環形陣列
+5圓角 6倒角 7孔 8修剪</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
